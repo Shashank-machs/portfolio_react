@@ -126,8 +126,8 @@ export default function Portfolio() {
           <div className="contact-list">
             <p><Phone size={18}/> +91-7204945862</p>
             <p><Mail size={18}/> shashankm7204@gmail.com</p>
-            <p><Github size={18}/> <a href="https://github.com/Shashank-machs" target="_blank">github.com/yourusername</a></p>
-            <p><Linkedin size={18}/> <a href="https://www.linkedin.com/in/shashank-m-a6b8752b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">linkedin.com/in/yourprofile</a></p>
+            <p><Github size={18}/> <a href="https://github.com/Shashank-machs" target="_blank" rel="noreferrer">github.com/yourusername</a></p>
+            <p><Linkedin size={18}/> <a href="https://www.linkedin.com/in/shashank-m-a6b8752b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer">linkedin.com/in/yourprofile</a></p>
             <p><FileText size={18}/> <a href="/Shashank_M_Resume-4%20(1).pdf" download>Download Resume</a></p>
           </div>
         </motion.section>
