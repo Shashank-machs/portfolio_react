@@ -9,6 +9,16 @@ export default function Portfolio() {
 
   return (
     <div className={darkMode ? "portfolio dark" : "portfolio light"}>
+
+
+<div className="logo-container">
+  <img src="/my_logo.jpg" alt="AI Logo" className="logo-img" />
+</div>
+
+
+
+
+
       <div className="container">
         {/* Dark Mode Toggle */}
         <div className="toggle">

@@ -19,6 +19,21 @@ body, html {
     background-color: #f9fafb;
     color: #111827;
   }
+
+  
+  .logo-container {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 101;
+  }
+  
+  .logo-img {
+    height: 50px;
+    width: auto;
+    border-radius: 8px;
+  }
+  
   
   .portfolio.dark {
     background-color: #0f172a;
